@@ -8162,7 +8162,7 @@
                             { label: "Liquidity", href: "/pool" },
                         ],
                     },
-                    { label: "Buy TYME TOKEN", icon: "InfoIcon", href: "https://tyme.exchange/#/swap?outputCurrency=0xAe81B57BFaf5fB86908Bfb3a6395fd4245Ff0DfB" },
+                    { label: "Buy TYME TOKEN", icon: "InfoIcon", href: "./?outputCurrency=0xAe81B57BFaf5fB86908Bfb3a6395fd4245Ff0DfB" },
                     {
                         label: "More",
                         icon: "MoreIcon",
