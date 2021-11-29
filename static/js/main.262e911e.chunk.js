@@ -8169,8 +8169,10 @@
                         initialOpenState: !1,
                         items: [
                             { label: "Discord", href: "https://discord.gg/MfUNQ9ygKP" },
-                            { label: "YouTube", href: "https://www.youtube.com/c/TYMEToken" },
+                            { label: "Telegram", href: "https://t.me/tymetoken" },
                             { label: "TikTok", href: "https://www.tiktok.com/@tymetoken" },
+                            { label: "Twitter", href: "https://twitter.com/tymetoken" },
+                            { label: "YouTube", href: "https://www.youtube.com/c/TYMEToken" },
                         ],
                     },
                 ],
