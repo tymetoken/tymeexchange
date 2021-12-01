@@ -8168,6 +8168,7 @@
                         icon: "MoreIcon",
                         initialOpenState: !1,
                         items: [
+                            { label: "Website", href: "https://tymetoken.org/" },
                             { label: "Discord", href: "https://discord.gg/MfUNQ9ygKP" },
                             { label: "Telegram", href: "https://t.me/tymetoken" },
                             { label: "TikTok", href: "https://www.tiktok.com/@tymetoken" },
