@@ -8170,6 +8170,7 @@
                         items: [
                             { label: "Website", href: "https://tymetoken.org/" },
                             { label: "Discord", href: "https://discord.gg/MfUNQ9ygKP" },
+                            { label: "Instagram", href: "https://www.instagram.com/tymetoken/" },
                             { label: "Telegram", href: "https://t.me/tymetoken" },
                             { label: "TikTok", href: "https://www.tiktok.com/@tymetoken" },
                             { label: "Twitter", href: "https://twitter.com/tymetoken" },
